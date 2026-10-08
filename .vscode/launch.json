@@ -1,7 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
+
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -10,7 +10,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/ADMIN/Desktop/C PROGRAMMING",
-      "program": "c:/Users/ADMIN/Desktop/C PROGRAMMING/findmax.exe",
+      "program": "c:/Users/ADMIN/Desktop/C PROGRAMMING/printgrade.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
